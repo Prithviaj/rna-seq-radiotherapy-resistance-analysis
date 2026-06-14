@@ -40,3 +40,27 @@ Which genes and pathways are associated with radiotherapy resistance?
 
 Prithvi Athreya Jagadish  
 MSc Bioinformatics, University of Birmingham
+
+## Workflow
+
+![Workflow](scripts/figures/workflow.png)
+
+## PCA Analysis
+
+![PCA](scripts/figures/PCA.png)
+
+## Volcano Plot
+
+![Volcano](scripts/figures/volcanoplot.png)
+
+## Heatmap
+
+![Heatmap](scripts/figures/heatmap.png)
+
+## KEGG Enrichment
+
+![KEGG](scripts/figures/enrichmentpathway.png)
+
+## Reactome Enrichment
+
+![Reactome](scripts/figures/reactome.png)
